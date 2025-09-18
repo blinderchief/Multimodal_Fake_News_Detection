@@ -47,7 +47,7 @@ Input (Text + Image/Video + Social Media URL) → Real-Time Scraping (Firecrawl)
 3. **Configure Environment**:
    ```bash
    cp .env
-   # Edit .env with your API keys
+   # Edit .env.example to .env with your API keys
    ```
 
 ### Alternative (pip)
