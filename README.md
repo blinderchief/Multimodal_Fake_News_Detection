@@ -41,13 +41,12 @@ Input (Text + Image/Video + Social Media URL) → Real-Time Scraping (Firecrawl)
 
 2. **Clone/Setup Project**:
    ```bash
-   cd multimodal_fake_news
    uv sync
    ```
 
 3. **Configure Environment**:
    ```bash
-   cp .env.example .env
+   cp .env
    # Edit .env with your API keys
    ```
 
